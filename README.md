@@ -14,7 +14,7 @@ This repository conatin APK file for android and a chrome extension.
 
 # For Chrome
 ## Install Chrome Extension 
-1. Download [.zip](https://github.com/msafdarkhan/medium_forall/blob/main/Medium%20Chrome%20Extension%20By%20Safdar%20Khan.zip) file extract it 
+1. Download [.zip](https://github.com/msafdarkhan/medium_forall/raw/main/Medium%20Chrome%20Extension%20By%20Safdar%20Khan.zip) file extract it 
 1. Open Chrome -> `Kebab menu(⋮) -> More Tools -> Extensions` -> Enable Developer Option and then click on `LOAD UNPACKED`
 Chrome extension is loaded and ready to use.
 ![alt text](https://github.com/msafdarkhan/medium_forall/raw/main/screenshot/Install.jpg "Install in Chrome")
