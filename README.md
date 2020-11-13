@@ -1,4 +1,4 @@
-# medium For All [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Thanks+%40theSafdarkhan+for+this+open+source+Tool+that+is+able+to+open+31+Sites+for+free+including+Medium.com&url=https://github.com/msafdarkhan/medium_forall&hashtags=medium,hackernoon,thanksSafdarkhan)
+# Medium For All [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Thanks+%40theSafdarkhan+for+this+open+source+Tool+that+is+able+to+open+31+Sites+for+free+including+Medium.com&url=https://github.com/msafdarkhan/medium_forall&hashtags=medium,hackernoon,thanksSafdarkhan)
 
 Access **medium.com** for Free and Unlimited. Medium is an American online publishing platform developed by Evan Williams and launched in August 2012. It is owned by A Medium Corporation. Next to the earnings, writing on Medium is great for a couple of reasons, but the most important has to be their global reach. On Medium, you don't need to build your own platform--Medium has millions of readers from all over the world to read your content.
 
@@ -46,27 +46,27 @@ Websites That can access free with this Extension
   -  [theascent.pub](https://theascent.pub)
   -  [medium.mybridge.co](https://medium.mybridge.co)
   -  [uxdesign.cc](https://uxdesign.cc)
-  -  https://levelup.gitconnected.com
-  -  https://itnext.io
-  -  https://entrepreneurshandbook.co
-  -  https://proandroiddev.com
-  -  https://blog.prototypr.io
-  -  https://thebolditalic.com
-  -  https://blog.usejournal.com
-  -  https://blog.angularindepth.com
-  -  https://blog.bitsrc.io
-  -  https://blog.devartis.com
-  -  https://blog.maddevs.io
-  -  https://blog.getambassador.io
-  -  https://uxplanet.org
-  -  https://instagram-engineering.com
-  -  https://calia.me
-  -  https://productcoalition.com
-  -  https://engineering.opsgenie.com
-  -  https://android.jlelse.eu
-  -  https://robinhood.engineering
-  -  https://blog.hipolabs.com
-  -  https://ux.shopify.com
+  -  [levelup.gitconnected.com](https://levelup.gitconnected.com)
+  -  [itnext.io](https://itnext.io)
+  -  [entrepreneurshandbook.co](https://entrepreneurshandbook.co)
+  -  [proandroiddev.com](https://proandroiddev.com)
+  -  [blog.prototypr.io](https://blog.prototypr.io)
+  -  [thebolditalic.com](https://thebolditalic.com)
+  -  [blog.usejournal.com](https://blog.usejournal.com)
+  -  [blog.angularindepth.com](https://blog.angularindepth.com)
+  -  [blog.bitsrc.io](https://blog.bitsrc.io)
+  -  [blog.devartis.com](https://blog.devartis.com)
+  -  [blog.maddevs.io](https://blog.maddevs.io)
+  -  [blog.getambassador.io](https://blog.getambassador.io)
+  -  [uxplanet.org](https://uxplanet.org)
+  -  [instagram-engineering.com](https://instagram-engineering.com)
+  -  [calia.me](https://calia.me)
+  -  [productcoalition.com](https://productcoalition.com)
+  -  [engineering.opsgenie.com](https://engineering.opsgenie.com)
+  -  [android.jlelse.eu](https://android.jlelse.eu)
+  -  [robinhood.engineering](https://robinhood.engineering)
+  -  [blog.hipolabs.com](https://blog.hipolabs.com)
+  -  [ux.shopify.com](https://ux.shopify.com)
   
   
 # Screenshot:
